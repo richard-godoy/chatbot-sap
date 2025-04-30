@@ -1,0 +1,213 @@
+
+**** Log file opened at 2025-04-30 15:41:28.455979 UTC-03:00 (UTC), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 19:51:32
+CPIC library              : 753.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1423
+Current working directory : /Volumes/MacMiniSSD/Documents/Python
+Program                   : Python
+Process ID                : 39228
+User                      : richardgodoy
+Hardware                  : Apple Macintosh with Mac OS X (Darwin) Apple Silicon arm64 arm64
+Operating_system          : Darwin 24.4.0
+Hostname                  : Mac-mini-de-Richard.local
+IP address                : 127.0.0.1
+IPv6 address              : 
+Global trace level        : 0
+
+2025-04-30 15:41:28.456040 [8629374080] >> Info entry
+	Did not find config file /Volumes/MacMiniSSD/Documents/Python/sapnwrfc.ini.
+
+**** Log file opened at 2025-04-30 15:41:56.696495 UTC-03:00 (UTC), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 19:51:32
+CPIC library              : 753.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1423
+Current working directory : /Volumes/MacMiniSSD/Documents/Python
+Program                   : Python
+Process ID                : 39238
+User                      : richardgodoy
+Hardware                  : Apple Macintosh with Mac OS X (Darwin) Apple Silicon arm64 arm64
+Operating_system          : Darwin 24.4.0
+Hostname                  : Mac-mini-de-Richard.local
+IP address                : 127.0.0.1
+IPv6 address              : 
+Global trace level        : 0
+
+2025-04-30 15:41:56.696086 [8629374080] >> Info entry
+	throwRfcErrorMsg called at:
+[Thr 8629374080] ------------------ C-STACK ----------------------
+[Thr 8629374080] ------------------ c-stack end ------------------
+
+2025-04-30 15:41:56.699071 [8629374080] >> Error entry
+	[Handle: 4739605504	ConvID: 44283004	Target: EZKTSAP1	SysID: ED3	SysNr: 08	User: rgodoy	Client: 100	Language: P	SAPRouter: /H/vpn.exakta.com.br	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: O nome ou a senha não está correto (repetir o logon)
+
+**** Log file opened at 2025-04-30 15:42:02.185273 UTC-03:00 (UTC), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 19:51:32
+CPIC library              : 753.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1423
+Current working directory : /Volumes/MacMiniSSD/Documents/Python
+Program                   : Python
+Process ID                : 39241
+User                      : richardgodoy
+Hardware                  : Apple Macintosh with Mac OS X (Darwin) Apple Silicon arm64 arm64
+Operating_system          : Darwin 24.4.0
+Hostname                  : Mac-mini-de-Richard.local
+IP address                : 127.0.0.1
+IPv6 address              : 
+Global trace level        : 0
+
+2025-04-30 15:42:02.185127 [8629374080] >> Info entry
+	throwRfcErrorMsg called at:
+[Thr 8629374080] ------------------ C-STACK ----------------------
+[Thr 8629374080] ------------------ c-stack end ------------------
+
+2025-04-30 15:42:02.187220 [8629374080] >> Error entry
+	[Handle: 4798317056	ConvID: 44294003	Target: EZKTSAP1	SysID: ED3	SysNr: 08	User: rgodoy	Client: 100	Language: P	SAPRouter: /H/vpn.exakta.com.br	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: O nome ou a senha não está correto (repetir o logon)
+
+**** Log file opened at 2025-04-30 15:42:06.325509 UTC-03:00 (UTC), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 19:51:32
+CPIC library              : 753.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1423
+Current working directory : /Volumes/MacMiniSSD/Documents/Python
+Program                   : Python
+Process ID                : 39245
+User                      : richardgodoy
+Hardware                  : Apple Macintosh with Mac OS X (Darwin) Apple Silicon arm64 arm64
+Operating_system          : Darwin 24.4.0
+Hostname                  : Mac-mini-de-Richard.local
+IP address                : 127.0.0.1
+IPv6 address              : 
+Global trace level        : 0
+
+2025-04-30 15:42:06.325412 [8629374080] >> Info entry
+	throwRfcErrorMsg called at:
+[Thr 8629374080] ------------------ C-STACK ----------------------
+[Thr 8629374080] ------------------ c-stack end ------------------
+
+2025-04-30 15:42:06.326255 [8629374080] >> Error entry
+	[Handle: 5251586048	ConvID: 44299162	Target: EZKTSAP1	SysID: ED3	SysNr: 08	User: rgodoy	Client: 100	Language: P	SAPRouter: /H/vpn.exakta.com.br	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: O nome ou a senha não está correto (repetir o logon)
+
+**** Log file opened at 2025-04-30 15:43:54.264204 UTC-03:00 (UTC), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 19:51:32
+CPIC library              : 753.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1423
+Current working directory : /Volumes/MacMiniSSD/Documents/Python
+Program                   : Python
+Process ID                : 39265
+User                      : richardgodoy
+Hardware                  : Apple Macintosh with Mac OS X (Darwin) Apple Silicon arm64 arm64
+Operating_system          : Darwin 24.4.0
+Hostname                  : Mac-mini-de-Richard.local
+IP address                : 127.0.0.1
+IPv6 address              : 
+Global trace level        : 0
+
+2025-04-30 15:43:54.263053 [8629374080] >> Info entry
+	throwRfcErrorMsg called at:
+[Thr 8629374080] ------------------ C-STACK ----------------------
+[Thr 8629374080] ------------------ c-stack end ------------------
+
+
+**** Log file opened at 2025-04-30 15:50:42.959334 UTC-03:00 (UTC), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 19:51:32
+CPIC library              : 753.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1423
+Current working directory : /Volumes/MacMiniSSD/Documents/Python
+Program                   : Python
+Process ID                : 39308
+User                      : richardgodoy
+Hardware                  : Apple Macintosh with Mac OS X (Darwin) Apple Silicon arm64 arm64
+Operating_system          : Darwin 24.4.0
+Hostname                  : Mac-mini-de-Richard.local
+IP address                : 127.0.0.1
+IPv6 address              : 
+Global trace level        : 0
+
+2025-04-30 15:50:42.958062 [8629374080] >> Info entry
+	throwRfcErrorMsg called at:
+[Thr 8629374080] ------------------ C-STACK ----------------------
+[Thr 8629374080] ------------------ c-stack end ------------------
+
+
+**** Log file opened at 2025-04-30 15:53:10.650689 UTC-03:00 (UTC), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 19:51:32
+CPIC library              : 753.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1423
+Current working directory : /Volumes/MacMiniSSD/Documents/Python
+Program                   : Python
+Process ID                : 39320
+User                      : richardgodoy
+Hardware                  : Apple Macintosh with Mac OS X (Darwin) Apple Silicon arm64 arm64
+Operating_system          : Darwin 24.4.0
+Hostname                  : Mac-mini-de-Richard.local
+IP address                : 127.0.0.1
+IPv6 address              : 
+Global trace level        : 0
+
+2025-04-30 15:53:10.648938 [8629374080] >> Info entry
+	throwRfcErrorMsg called at:
+[Thr 8629374080] ------------------ C-STACK ----------------------
+[Thr 8629374080] ------------------ c-stack end ------------------
+
+
+**** Log file opened at 2025-04-30 16:12:25.619379 UTC-03:00 (UTC), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 19:51:32
+CPIC library              : 753.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1423
+Current working directory : /Volumes/MacMiniSSD/Documents/Python
+Program                   : Python
+Process ID                : 39572
+User                      : richardgodoy
+Hardware                  : Apple Macintosh with Mac OS X (Darwin) Apple Silicon arm64 arm64
+Operating_system          : Darwin 24.4.0
+Hostname                  : Mac-mini-de-Richard.local
+IP address                : 127.0.0.1
+IPv6 address              : 
+Global trace level        : 0
+
+2025-04-30 16:12:25.617862 [8629374080] >> Info entry
+	throwRfcErrorMsg called at:
+[Thr 8629374080] ------------------ C-STACK ----------------------
+[Thr 8629374080] ------------------ c-stack end ------------------
+
+
+**** Log file opened at 2025-04-30 16:14:23.991781 UTC-03:00 (UTC), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 19:51:32
+CPIC library              : 753.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1423
+Current working directory : /Volumes/MacMiniSSD/Documents/Python
+Program                   : Python
+Process ID                : 39589
+User                      : richardgodoy
+Hardware                  : Apple Macintosh with Mac OS X (Darwin) Apple Silicon arm64 arm64
+Operating_system          : Darwin 24.4.0
+Hostname                  : Mac-mini-de-Richard.local
+IP address                : 127.0.0.1
+IPv6 address              : 
+Global trace level        : 0
+
+2025-04-30 16:14:23.990919 [8629374080] >> Info entry
+	throwRfcErrorMsg called at:
+[Thr 8629374080] ------------------ C-STACK ----------------------
+[Thr 8629374080] ------------------ c-stack end ------------------
+
